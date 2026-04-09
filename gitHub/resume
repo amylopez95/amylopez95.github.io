@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amy Lopez Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="resume-body">
+
+<div class="rhn">
+    <header>
+        <h1>AMY LOPEZ</h1>
+    </header>
+    <nav>
+        <a href="index.html">HOME</a>
+        <a href="resume.html">RESUME</a>
+        <a href="portfolio.html">PORTFOLIO</a>
+    </nav>
+</div>
+
+    <main class="resume-main">
+        <section>
+            <h1>Resume</h1>
+        </section>
+        
+        <section class="rintro">
+            <h2>Who am I?</h2>
+            <img src="images/amy1.jpg" alt="Amy Lopez">
+        <p>I'm a multi-disciplinary designer and developer with a love for bold visuals and atmospheric digital experiences. I enjoy crafting work that feels playful yet intentional, textured yet clean. My projects are driven by curiosity, experimentation, and a strong sense of style. I bring creativity and adaptability to every team I join.</p>
+        </section>
+
+
+     <div class="rdetails">
+        <section>
+        <h2>Strengths</h2>
+        <ul>
+            <li>Strong communication & collaboration</li>
+            <li>Empathetic design thinking</li>
+            <li>Creative problem-solving</li>
+            <li>Multilingual (English & Spanish)</li>
+            <li>Highly adaptable in fast-paced environments</li>
+            <li>Leadership and team mentoring</li>
+        </ul>
+        </section>
+        <section>
+        <h2>Technical Proficiency</h2>
+        <ul>
+            <li>Adobe Creative Suite (Illustrator, Photoshop, InDesign, Lightroom)</li>
+            <li>Environmental & Spatial Design</li>
+            <li>Digital Rendering & Mockups</li>
+            <li>HTML/CSS</li>
+            <li>Typography & Layout</li>
+            <li>Branding & Identity Systems</li>
+        </ul>
+        <p>Examples of creative output include 2D renderings, graphic posters, brand logos, editorial print design, photography and editing, and web design.</p>
+        </section>
+
+        <section>
+        <h2>Education</h2>
+            <h3>The Woodlands College Park High School</h3>
+                 <p>Graduation Year: 2023</p>
+            <h3>Lone Star College - Houston, TX</h3>
+                 <p>Associate of Applied Science in Graphic Design</p>
+        </section>
+
+        <section>
+            <h2>Employment History</h2>
+            <h3>Aviation X</h3>
+             <h4>Assistant Designer | Fall 2023 - Present</h4>
+                    <ul>
+                        <li>Led design direction during consultations for private aircraft refurbishments</li>
+                        <li>Produced digital renderings and visual concepts to assist client decision-making</li>
+                        <li>Collaborated directly with clients, vendors, and production team to create successful project outcomes</li>
+                        <li>Developed personal and custom aircraft logos for clients</li>
+                    </ul>
+        </section>
+
+        <section>
+        <h2>Contact Me</h2>
+        <p>Feel free to reach out to me with any inquiries and I would be happy to collaborate with you! </p>
+        <h3>Contact Me At:</h3>
+        <ul>
+            <li>Email: 95.amylopez@gmail.com</li>
+            <li>Instagram: soundandcolor._</li>
+            <li>Phone Number: (805) 853-8692</li>
+        </ul>
+        </section>
+    </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Amy Lopez. All rights reserved. | Thanks for stopping by!</p>
+    </footer>
+</body>
+</html>
