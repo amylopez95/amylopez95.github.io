@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="js_/jquery.js"></script>
+	<script type="text/javascript" src="js_/cycle2.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Amy Lopez Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="phn">
+<header>
+        <h1>AMY LOPEZ</h1>
+    </header>
+    <nav>
+        <a href="index.html">HOME</a>
+        <a href="resume.html">RESUME</a>
+        <a href="portfolio.html">PORTFOLIO</a>
+    </nav>
+</div>
+	
+    <main class="portfolio-main">
+        <section>
+            <h1>Portfolio</h1>
+        </section>
+		<section class="aboutwork">
+			<h2>About My Work</h2>
+			<p>My process begins with understanding: the audience, the goals, and the mood a project needs to evoke. From there, I move through research, testing, and refinement, allowing the work to evolve naturally. Each project becomes a lesson in creativity and craft, helping me grow sharper, more thoughtful, and more intentional.</p>
+		</section>
+
+		<section class="cycle-slideshow" data-cycle-slides=".slide" data-cycle-pause-on-hover="true">
+
+			<span class="cycle-prev"> ᐊ </span>
+			<span class="cycle-next"> ᐅ </span>
+
+			<span class="cycle-pager"></span>
+
+			<div class="slide">
+			<img src="images/_collected.png" alt="Collected Website">	
+			<div class="slide-text">
+				<h3>Collected - Music Blog</h3>
+				<a href="projects2/music_blog/index.html" target="_blank">Go to Website</a>
+				<p>For Collected, I explored a more refined expression of my personal design style through layout, imagery, typography, and color. The result is a clean, intentional composition that supports the overall mood while maintaining clarity and usability. Working with a music-focused theme allowed me to integrate both thoughtful visual decisions and expressive written content. This project strengthened my ability to balance creative freedom with a cohesive, audience-focused design approach.</p>
+			</div>
+			</div>
+			
+			<div class="slide">
+			<img src="images/_yumyum.png" alt="Yum Yum Kitchen Website Preview">	
+			<div class="slide-text">
+				<h3>Yum Yum Kitchen</h3>
+				<a href="projects2/yumyum/index.html" target="_blank">Go to Website</a>
+				<p>In developing Yum Yum Kitchen, I focused on creating flexible layout structures that accommodate a variety of content types, from recipes to feature posts. The design emphasizes clarity, easy navigation, and a framework that supports frequent updates—mirroring the needs of an active food blog. This project strengthened my understanding of information architecture and building user-friendly, scalable web </p>
+			</div>
+			</div>
+
+			<div class="slide">
+			<img src="images/_based.png" alt="Based Magazine Cover">	
+			<div class="slide-text">
+				<h3>Based Magazine</h3>
+				<a href="projects2/BasedMagazine.pdf" target="_blank">View Full Magazine</a>
+				<p>Based Magazine allowed me to explore a wide range of editorial techniques, from dynamic layouts to experimental typography, color, and imagery. Throughout the project, I developed a cohesive visual identity inspired by vintage skate magazines, grunge culture, and bold, expressive storytelling. This piece reflects significant growth in my editorial design skills, particularly in branding, advertising layouts, and long-form content structure. The final result embodies my personal style—raw yet refined, energetic yet intentional—capturing the garage-inspired aesthetic I set out to create. </p>
+			</div>	
+			</div>
+
+			<div class="slide">
+			<img src="images/_report.png" alt="Wander CO Travel Report Preview">	
+			<div class="slide-text">
+				<h3>WanderCo Annual Report</h3>
+				<a href="projects2/report.pdf" target="_blank">View Full Report</a>
+				<p>The WanderCo Annual Report highlights my technical design abilities through a professional, structured visual approach. Designed for an organic, positive, and sustainability-driven travel brand, the layout balances clarity with a cohesive brand voice. Organizing extensive information—graphs, data points, and icon systems—challenged me to refine my skills in hierarchy, consistency, and visual communication. This project expanded my range as a designer, strengthening my ability to translate complex content into an engaging, accessible experience. </p>
+			</div>	
+			</div>
+
+			<div class="slide">
+			<img src="images/_paw2.png" alt="Paw Primal Package Design Preview">	
+			<div class="slide-text">
+				<h3>Paw Package Design</h3>
+				<a href="projects2/paw.pdf" target="_blank">View Full Package Design</a>
+				<p>Creating the Paw Primal and Paw Instinct package design involved developing the full branding and packaging system for a paleo diet pet food brand, from logo design to package layout and visual style. The goal was to create a cohesive identity that communicates the brand's focus on pet health and nutrition. I began with extensive research to understand the brand's values and positioning, exploring multiple design directions before settling on the final approach. This project allowed me to experiment with different visual styles while also considering hierarchy, clarity, and the effective presentation of information within packaging constraints. It was an engaging challenge that expanded my abilities in brand storytelling, visual communication, and design problem-solving. </p>
+			</div>
+			</div>
+
+			<div class="slide">
+			<img src="images/_calendar.png" alt="Calendar Spread Design">	
+			<div class="slide-text">
+				<h3>Calendar Spread Design</h3>
+				<a href="projects2/caledar.pdf" target="_blank">View PDF</a>
+				<p>This project involved designing a two-page calendar spread for September and October 2025 with a focus on visual cohesion, originality, and functionality. I explored ways to create a design that was aesthetically engaging without relying on clichés, while also considering practical uses for the end user—such as allowing buyers to cut out the artwork as decor after the year ends. The concept of stamps provided a versatile and consistent framework for the calendar, allowing for variation while maintaining a unified style. I selected marigolds for September, reflecting the month's symbolic flower, and a pie for October to evoke warmth and an inviting tone. The result is a clean, coherent design that balances consistency, functionality, and visual appeal.</p>
+			</div>
+			</div>
+
+			<div class="slide">
+			<img src="images/_card.png" alt="Birthday Card Design">	
+			<div class="slide-text">
+				<h3>Birthday Card Design</h3>
+				<a href="projects2/card.pdf" target="_blank">View PDF</a>
+				<p>For this project, I aimed to create a birthday card that felt distinctive while retaining the celebratory essence of traditional cards. Noticing that many cards follow predictable themes, I explored a moodier and slightly darker aesthetic to appeal to friends and family who resonate with alternative or unconventional styles. This approach allowed me to showcase my illustrative and storytelling skills while considering audience connection and emotional resonance. The design balances playfulness with depth, reflecting my ability to craft work that is both visually engaging and thoughtfully targeted.</p>
+			</div>
+			</div>
+
+		</section>
+		
+	</main>
+	<footer>
+        <p>&copy; 2024 Amy Lopez. All rights reserved. | Thanks for stopping by!</p>
+    </footer>
+</body>
+</html>
